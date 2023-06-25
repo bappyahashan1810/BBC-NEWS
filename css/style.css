@@ -1,3 +1,7 @@
 .my-style:hover {
     text-decoration: underline;
 }
+
+.rounded {
+    border: 2px saddlebrown;
+}
